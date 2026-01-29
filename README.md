@@ -2,6 +2,9 @@
   <img src="https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png" alt="Calarts Creative Computing Logo" width="300"/>
 </p>
 
+<p align="center">
+  <img src="https://creativecomputing.calarts.edu/wp-content/uploads/2024/11/download-1-1.png" alt="Calarts Creative Computing Logo" width="300"/>
+</p>
 
 
 ## Student Learning Outcomes
