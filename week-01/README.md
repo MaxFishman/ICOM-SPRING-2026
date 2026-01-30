@@ -52,7 +52,7 @@ See the `code-examples/` directory for hands-on coding examples.
 
 2. After exploring each website, write a short summary analyzing the elements you liked and disliked, and explaining why. Be sure to include specific examples from the websites to support your analysis.
 
-## Resources
+## Resources and Tools
 
 ### Understanding the Internet
 - [Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) - Internet Society
